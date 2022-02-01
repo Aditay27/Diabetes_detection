@@ -1,6 +1,10 @@
 # Diabetes_detection
 This project predicts whether a person is diabetic or not depending on several factors like no. of pregnancies,age,blood pressure,insulin level,glucose level etc. Kaggle dataset is used for this project. Code has been written in Python Language.
 
+
+![image](https://user-images.githubusercontent.com/70196872/151917704-05dac0d7-b972-4035-9194-6ac9987649fa.png)
+![image](https://user-images.githubusercontent.com/70196872/151917782-27500c1d-9929-45ac-b991-0068db18d699.png)
+
 ## Pregnancy count Graph (Others vs Yours)
 ![image](https://user-images.githubusercontent.com/70196872/151916716-518b0982-dbe5-4bc9-8b53-85e506c2d378.png)
 
